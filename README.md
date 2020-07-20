@@ -1,7 +1,7 @@
 # Solution
 Solution to one of the pogramming challenges problem
-The question in the Question.txt file
-Solution in Solution.py file
+- Question in the Question.txt file
+- Solution in Solution.py file
 
 ## Algorithm 
 1. We have 5 input numbers 1-52 inclusive. Hence from the 5 numbers selected there are 5*4*3*2*1 = 120 possibilities of arranging them
