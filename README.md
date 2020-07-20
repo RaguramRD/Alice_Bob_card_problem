@@ -1,4 +1,3 @@
-# Solution
 Solution to one of the pogramming challenges problem
 - Question in the Question.txt file
 - Solution in Solution.py file
